@@ -1,0 +1,3 @@
+C:/Users/rudri/CLionProject/_prog3_space_2024_1/cmake-build-debug/CMakeFiles/_prog3_space_2024_1.dir
+C:/Users/rudri/CLionProject/_prog3_space_2024_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rudri/CLionProject/_prog3_space_2024_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
